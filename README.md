@@ -85,7 +85,6 @@ If we feel brave enough:
 
 
 Contributing
-------------
 
 This is a personal learning project, and even though it hasn't been updated for a long time, I still have hopes to get into it at some point.
 
